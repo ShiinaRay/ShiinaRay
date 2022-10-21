@@ -1,4 +1,8 @@
+<div align="center">
+  
 ### Hi there 👋
+
+I am a otaku? like playing computer and coding something interesting to me (just for fun ~).
 
 <!--
 **ShiinaRay/ShiinaRay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![Readme Card](https://github-readme-stats-one-bice.vercel.app/api?username=ShiinaRay&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](#)
+
+
+### 我的社交账户 / My Social Account
+
+[![](https://img.shields.io/badge/ShiinaRay-blue?style=flat-square&logo=telegram&logoColor=blue)](https://t.me/ShiinaRay)
+[![](https://img.shields.io/badge/BiliBili-169fe6?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/53761401)
+
+### 我的电子邮箱 / My E-Mail
+
+[![](https://img.shields.io/badge/ShiinaRay-@qq.com-skyblue?style=flat-square)](mailto:ShiinaRay@qq.com)
+  
+<!-- </div> -->
