@@ -2,7 +2,7 @@
   
 ### Hi there 👋
 
-I am a otaku? like playing computer and coding something interesting to me (just for fun ~).
+I am an otaku? like playing computer and coding something interesting to me (just for fun ~).
 
 <!--
 **ShiinaRay/ShiinaRay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
