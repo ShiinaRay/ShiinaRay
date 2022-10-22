@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 [![Readme Card](https://github-readme-stats-one-bice.vercel.app/api?username=ShiinaRay&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](#)
 
-
+### SNS
 ### 我的社交账户 / My Social Account
 
 [![](https://img.shields.io/badge/ShiinaRay-blue?style=flat-square&logo=telegram&logoColor=blue)](https://t.me/ShiinaRay)
