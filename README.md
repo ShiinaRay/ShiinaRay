@@ -22,12 +22,13 @@ Here are some ideas to get you started:
 
 [![Readme Card](https://github-readme-stats-one-bice.vercel.app/api?username=ShiinaRay&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](#)
 
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=ShiinaRay&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShiinaRay&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=ShiinaRay&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShiinaRay&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 
 ### SNS
 ### 我的社交账户 / My Social Account
-
-[![](https://img.shields.io/badge/ShiinaRay-blue?style=flat-square&logo=telegram&logoColor=blue)](https://t.me/ShiinaRay)
+<a href="https://github.com/ShiinaRay"><img alt="GitHub watchers" src="https://img.shields.io/badge/-GitHub-black?logo=GitHub"></a><br/>
+[![](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=telegram&logoColor=blue)](https://t.me/ShiinaRay)
 [![](https://img.shields.io/badge/bilibili-169fe6?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/53761401)
 
 ### 我的电子邮箱 / My E-Mail
