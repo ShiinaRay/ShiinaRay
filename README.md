@@ -28,8 +28,10 @@ Here are some ideas to get you started:
 ### SNS
 ### 我的社交账户 / My Social Account
 <a href="https://github.com/ShiinaRay"><img alt="GitHub watchers" src="https://img.shields.io/badge/-GitHub-black?logo=GitHub"></a><br/>
-[![](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=telegram&logoColor=blue)](https://t.me/ShiinaRay)
+<!--        [![](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=telegram&logoColor=blue)](https://t.me/ShiinaRay)-->
+<a href="https://t.me/ShiinaRay"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram"></a>
 [![](https://img.shields.io/badge/bilibili-169fe6?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/53761401)
+<a href="https://twitter.com/ShiinaRay02"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"></a>
 
 ### 我的电子邮箱 / My E-Mail
 
