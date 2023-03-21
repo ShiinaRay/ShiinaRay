@@ -28,7 +28,8 @@ Here are some ideas to get you started:
 
 ### SNS
 ### 我的社交账户 / My Social Account
-<a href="https://github.com/ShiinaRay" target="_blank"><img alt="GitHub watchers" src="https://img.shields.io/badge/-GitHub-black?logo=GitHub"></a>
+<a href="https://github.com/ShiinaRay" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-black?logo=GitHub"></a>
+<a href="https://steamcommunity.com/id/ShiinaRay/" target="_blank"><img alt="Steam" src="https://img.shields.io/badge/Steam-171A21?logo=steam"></a>
 
 <a href="https://t.me/ShiinaRay" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram" alt="telegram"></a>
 <a href="https://space.bilibili.com/53761401" target="_blank"><img src="https://img.shields.io/badge/bilibili-169fe6?style=flat-square&logo=bilibili&logoColor=white" alt="bilibili"></a>
